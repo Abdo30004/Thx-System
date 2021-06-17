@@ -1,0 +1,21 @@
+{
+  "name": "command handler source",
+  "version": "1.0.0",
+  "description": "command handler source",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Abderrahmane",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "discord-reply": "^0.1.2",
+    "discord.js": "^12.5.3",
+    "mongoose": "^5.12.13",
+    "ms": "^2.1.3",
+    "pretty-ms": "^7.0.1"
+  }
+}
